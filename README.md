@@ -1,6 +1,7 @@
 # grid
 Grid-based AI searching and game-playing in Petit Chez Scheme
 
+- branch-and-bound: a robot searches a grid for the goal using backtrack-enabled hillclimbing;
 - firstorderlogic: a robot finds a goal in a small grid using first-order reasoning;
 - hillclimber: A robot pathfinds towards a goal using only local information;
 - predator-prey: An obstacle-destroying predator robot seeks its obstacle-creating prey;
