@@ -1,2 +1,12 @@
 # grid
-Grid-based AI searching and game-playing
+Grid-based AI searching and game-playing in Petit Chez Scheme
+
+- firstorderlogic: a robot finds a goal in a small grid using first-order reasoning;
+- gameplaying: A robot looks for a moving goal in an obstacle-filled grid;
+- hillclimber: A robot pathfinds towards a goal using only local information;
+- perceptron: A single perceptron neuron! This time, in Scheme;
+- predator-prey: An obstacle-destroying predator robot seeks its obstacle-creating prey;
+- productionsystem: A robot uses semantic reasoning to find the goal;
+- propsearch: A robot uses propositional logic to reason its way towards the goal;
+- README.md: You are here
+- realtime-astar: A robot uses real-time A* search to make its way towards the goal.
